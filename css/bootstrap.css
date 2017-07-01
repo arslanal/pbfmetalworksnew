@@ -1127,8 +1127,8 @@ mark,
 }
 .text-left {
   text-align: left;
-  font-family:Lucida;
-  font-size: 20px;
+  font-family:Lucida Console;
+  font-size: 5px;
 }
 .text-right {
   text-align: right;

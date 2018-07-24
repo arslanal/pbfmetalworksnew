@@ -4,7 +4,7 @@
 
 	// some dummy data to play with..
 	var allImages = {
-		page1 : ['<a href="#"><img src="Aluminum/a1.jpg" alt=""/></a>','<a href="#"><img src="Aluminum/a7.jpg" alt="img02"/></a>','<a href="#"><img src="Aluminum/a3.jpg" alt="img03"/></a>','<a href="#"><img src="Aluminum/a4.jpg" alt="img04"/></a>','<a href="#"><img src="Aluminum/a14.jpg" alt="img05"/></a>','<a href="#"><img src="Aluminum/a112.jpg" alt="img06"/></a>'],
+		page1 : ['<a href="#"><img src="Aluminum/a1.jpg" alt=""/></a>','<a href="#"><img src="Aluminum/a7.jpg" alt="img02"/></a>','<a href="#"><img src="Aluminum/a3.jpg" alt="img03"/></a>','<a href="#"><img src="Aluminum/a4.jpg" alt="img04"/></a>','<a href="#"><img src="Aluminum/wk.jpg" alt="img05"/></a>','<a href="#"><img src="Aluminum/a112.jpg" alt="img06"/></a>'],
 		page2 : ['<a href="#"><img src="Aluminum/a2.jpg" alt="img07"/></a>','<a href="#"><img src="Aluminum/a8.jpg" alt="img08"/></a>','<a href="#"><img src="Aluminum/a9.jpg" alt="img09"/></a>','<a href="#"><img src="Aluminum/a10.jpg" alt="img10"/></a>','<a href="#"><img src="Aluminum/a12.jpg" alt="img11"/></a>','<a href="#"><img src="Aluminum/a13.jpg" alt="img12"/></a>'],
 		page3 : ['<a href="#"><img src="Aluminum/a5.jpg" alt="img17"/></a>','<a href="#"><img src="Aluminum/a11.jpg" alt="img18"/></a>','<a href="#"><img src="Aluminum/a15.jpg" alt="img19"/></a>','<a href="#"><img src="Aluminum/a16.jpg" alt="img20"/></a>','<a href="#"><img src="Aluminum/a17.jpg" alt="img21"/></a>','<a href="#"><img src="Aluminum/a18.jpg" alt="img22"/></a>'],
 		page4 : ['<a href="#"><img src="img/13.jpg" alt="img13"/></a>','<a href="#"><img src="img/14.jpg" alt="img14"/></a>','<a href="#"><img src="img/15.jpg" alt="img15"/></a>','<a href="#"><img src="img/16.jpg" alt="img16"/></a>']
